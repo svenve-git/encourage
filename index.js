@@ -1,0 +1,1 @@
+console.log("Hey there, did you realize it's day ${today} already and you still have a wonderful smile on your face?! Keept it up!!")
